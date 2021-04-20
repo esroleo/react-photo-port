@@ -14,8 +14,11 @@ function App() {
     { name: 'landscape', description: 'Fields, farmhouses, waterfalls, and the beauty of nature' },
   ]);
 
+  // the result for your to use using the useState(0)
+  // first state commercial
   const [currentCategory, setCurrentCategory] = useState(categories[0]);
 
+  // div Nav is sending objects or paramaters that will be received as arguments (term props)
   return (
     <div>
       <Nav
