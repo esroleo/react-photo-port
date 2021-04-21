@@ -1,6 +1,6 @@
 {
-  "homepage": "http://esroleo.github.io/photo-port",
-  "name": "photo-port",
+  "homepage": "http://esroleo.github.io/react-photo-port",
+  "name": "react-photo-port",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
